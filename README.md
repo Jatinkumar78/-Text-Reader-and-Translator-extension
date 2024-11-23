@@ -1,4 +1,5 @@
-Text Reader and Translator Extension
+Text Reader and Translator Extension :
+
 The Text Reader and Translator extension is a simple and efficient tool that allows users to translate selected text on web pages and hear it spoken aloud. This extension is designed to enhance browsing by providing quick translation and text-to-speech functionalities.
 
 Features
